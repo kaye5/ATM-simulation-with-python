@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "name": "Kevin Yuslianto",
+        "pass": "admin",
+        "auth": "admin",
+        "status": "active"
+    },
+    "kaye1": {
+        "name": "Kevin yus",
+        "pass": "admin",
+        "auth": "admin",
+        "status": "block"
+    },
+    "qpqpqp": {
+        "name": "Qpqpqp ",
+        "pass": "qpqp",
+        "auth": "admin",
+        "status": "active"
+    },
+    "Cliff benardo boss": {
+        "name": "Cliff",
+        "pass": "odamad",
+        "auth": "admin",
+        "status": "active"
+    },
+    "kevin y": {
+        "name": "Kevin Yuslianto",
+        "pass": "abcd",
+        "auth": "admin",
+        "status": "active"
+    }
+}

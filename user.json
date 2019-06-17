@@ -1,0 +1,107 @@
+{
+    "1": {
+        "name": "Kevin Yus",
+        "pass": "0987",
+        "saldo": 1009998799899989900072130000,
+        "auth": "user",
+        "status": "active"
+    },
+    "2": {
+        "name": "My Name Is Cliff",
+        "pass": "1",
+        "saldo": 99900099014000000,
+        "auth": "user",
+        "status": "active"
+    },
+    "dummy": {
+        "name": "block",
+        "pass": "1",
+        "saldo": 2400000,
+        "auth": "user",
+        "status": "block"
+    },
+    "mario": {
+        "name": "Mario chandra",
+        "pass": "1234",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "03082180008": {
+        "name": "Kevin Yuslianto",
+        "pass": "0513",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "31979": {
+        "name": "Mario Chandra ",
+        "pass": "12345",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "123456": {
+        "name": "\u0424\u044b\u0432",
+        "pass": "12345",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "098765": {
+        "name": "Adi Chang",
+        "pass": "6867788876867868",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "09876756785678": {
+        "name": "\\\\\\\\\\\\\\\\\\",
+        "pass": "18230923092903803012",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "12376123123": {
+        "name": "?daldqijoia",
+        "pass": "1234567890",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "123123131": {
+        "name": "Cliff",
+        "pass": "1203912312",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "34567": {
+        "name": "Hbakjna",
+        "pass": "13210391",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "1234567": {
+        "name": "Mario Chandra Bau",
+        "pass": "12345",
+        "saldo": 0,
+        "auth": "user",
+        "status": "active"
+    },
+    "00008": {
+        "name": "Susan",
+        "pass": "4321",
+        "saldo": 5000000,
+        "auth": "user",
+        "status": "active"
+    },
+    "00001": {
+        "name": "Adi",
+        "pass": "1234",
+        "saldo": 2105100000,
+        "auth": "user",
+        "status": "active"
+    }
+}

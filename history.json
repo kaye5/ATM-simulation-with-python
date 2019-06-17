@@ -1,0 +1,34 @@
+{
+    "1": [
+        "Thu 13 Dec 2018 19:59:18 || Login ",
+        "Thu 13 Dec 2018 19:59:59 || Setor Rp. 1,000,000,000,000,000,000,000,000,000 ",
+        "Thu 13 Dec 2018 20:00:10 || Tarek Rp. 1.000.000 ",
+        "Thu 13 Dec 2018 20:00:22 || buang Rp. 1,000,000,000,000,000,000,000",
+        "Thu 13 Dec 2018 20:00:37 || buang Rp. 100,000,000,000,000,000,000",
+        "Thu 13 Dec 2018 20:00:50 || Transfer ke 2 Rp. 100,000,000,000 ",
+        "Thu 13 Dec 2018 20:00:50 || Transfer ke 2 Rp. 1.000.000 ",
+        "Thu 13 Dec 2018 20:01:03 || Ubah nama ",
+        "Thu 13 Dec 2018 20:01:09 || Ubah nama ",
+        "Thu 13 Dec 2018 20:01:34 || Ubah password ",
+        "Fri 14 Dec 2018 21:48:05 || Transfer dari 2 Rp. 100.000 "
+    ],
+    "2": [
+        "Thu 13 Dec 2018 20:00:50 || Transfer dari 1 Rp. 1.000.000 ",
+        "Fri 14 Dec 2018 21:37:09 || Login ",
+        "Fri 14 Dec 2018 21:38:38 || buang Rp. 100,000,000,000,000",
+        "Fri 14 Dec 2018 21:38:51 || Login ",
+        "Fri 14 Dec 2018 21:39:07 || Ubah nama ",
+        "Fri 14 Dec 2018 21:47:40 || Login ",
+        "Fri 14 Dec 2018 21:48:05 || Transfer ke 1 Rp. 100.000 ",
+        "Fri 14 Dec 2018 21:48:15 || Tarek Rp. 1.000.000 ",
+        "Fri 14 Dec 2018 21:48:16 || Tarek Rp. 1.000.000 "
+    ],
+    "admin": [
+        "Thu 13 Dec 2018 20:05:03 || Login ",
+        "Fri 14 Dec 2018 21:35:37 || Login ",
+        "Fri 14 Dec 2018 21:50:16 || Login "
+    ],
+    "00008": [
+        "Fri 14 Dec 2018 21:49:23 || Login "
+    ]
+}
